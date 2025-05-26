@@ -1,5 +1,5 @@
 /**
- * 缪斯个人主页 - JavaScript文件
+ * 苏传磊个人主页 - JavaScript文件
  * 包含所有功能：配置、动画、工具函数等
  */
 
@@ -7,9 +7,9 @@
 const CONFIG = {
   // 基本信息
   basic: {
-    name: "缪斯",
-    title: "数字游民 & 互联网探索者",
-    location: "中国，成都",
+    name: "苏传磊",
+    title: "AI赋能学术资深讲师、AI前沿探索者",
+    location: "中国，北京",
     avatar: "./assets/images/Muse.jpg",
   },
 
@@ -18,14 +18,11 @@ const CONFIG = {
     wechat: "./assets/images/Wechat.jpg",
     publicAccount: "./assets/images/gzh.jpg",
     contactText: "欢迎添加个人社交媒体互相学习！",
-    github: "https://github.com/miusing",
-    youtube: "https://www.youtube.com/@亲爱的缪斯",
-    bilibili: "https://space.bilibili.com/1372455931"
   },
 
   // 关于我部分
   about: {
-    content: "拥有 4 年 AI 算法与应用开发经验，主打 AI 技术栈实践与创新。顺带折腾自媒体和 Crypto，有点野路子但很实战。好奇心重，热爱瞎搞各种新东东。熟练使用 Python，喜欢沉浸在互联网世界中自由穿梭与价值创造。信奉“边学边干”，致力于以技术和内容为驱动，实现可持续的线上收入模式。"
+    content: "AI前沿探索者、AI赋能学术资深讲师、AI智能体特训营教练、【AI学术圆桌派】主理人"
   },
 
 
@@ -41,8 +38,8 @@ const CONFIG = {
   // 版权信息
   copyright: {
     year: "2021 - 2025",
-    name: "缪斯",
-    url: "https://museact.ai"
+    name: "苏传磊",
+    url: "https://suchuanlei.ai"
   },
 
   // 主题颜色
